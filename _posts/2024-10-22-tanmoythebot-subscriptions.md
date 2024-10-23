@@ -8,7 +8,7 @@ image:
   path: https://i.ibb.co.com/mCkBL88/photo-2023-09-18-18-22-03.jpg
   alt: TanmoyTheBoT Subscriptions
 author: tanmoythebot
-pin: true
+
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.tanmoy.xyz%2Fposts%2Ftanmoythebot-subscriptions%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.tanmoy.xyz%2Fposts%2Ftanmoythebot-subscriptions%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ## TanmoyTheBoT Subscriptions
